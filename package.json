@@ -28,6 +28,9 @@
       "cordova-plugin-sim": {},
       "phonegap-plugin-barcodescanner": {
         "ANDROID_SUPPORT_V4_VERSION": "27.+"
+      },
+      "cordova-android-support-gradle-release": {
+        "ANDROID_SUPPORT_VERSION": "27.+"
       }
     },
     "platforms": [
@@ -36,6 +39,7 @@
   },
   "dependencies": {
     "cordova-android": "^8.1.0",
+    "cordova-android-support-gradle-release": "^3.0.1",
     "cordova-plugin-sim": "^1.3.3",
     "phonegap-plugin-barcodescanner": "^8.1.0"
   }
