@@ -7,51 +7,51 @@
     "files": {}
   },
   "installed_plugins": {
+    "cordova-android-support-gradle-release": {
+      "ANDROID_SUPPORT_VERSION": "21+.",
+      "PACKAGE_NAME": "com.phonegap.simbarcode"
+    },
     "cordova-plugin-battery-status": {
-      "PACKAGE_NAME": "com.phonegap.qrcode"
+      "PACKAGE_NAME": "com.phonegap.simbarcode"
     },
     "cordova-plugin-camera": {
-      "PACKAGE_NAME": "com.phonegap.qrcode"
+      "PACKAGE_NAME": "com.phonegap.simbarcode"
     },
     "cordova-plugin-device": {
-      "PACKAGE_NAME": "com.phonegap.qrcode"
+      "PACKAGE_NAME": "com.phonegap.simbarcode"
     },
     "cordova-plugin-dialogs": {
-      "PACKAGE_NAME": "com.phonegap.qrcode"
+      "PACKAGE_NAME": "com.phonegap.simbarcode"
     },
     "cordova-plugin-geolocation": {
-      "PACKAGE_NAME": "com.phonegap.qrcode"
+      "PACKAGE_NAME": "com.phonegap.simbarcode"
     },
     "cordova-plugin-globalization": {
-      "PACKAGE_NAME": "com.phonegap.qrcode"
+      "PACKAGE_NAME": "com.phonegap.simbarcode"
     },
     "cordova-plugin-inappbrowser": {
-      "PACKAGE_NAME": "com.phonegap.qrcode"
+      "PACKAGE_NAME": "com.phonegap.simbarcode"
     },
     "cordova-plugin-media-capture": {
-      "PACKAGE_NAME": "com.phonegap.qrcode"
+      "PACKAGE_NAME": "com.phonegap.simbarcode"
     },
     "cordova-plugin-network-information": {
-      "PACKAGE_NAME": "com.phonegap.qrcode"
-    },
-    "cordova-plugin-vibration": {
-      "PACKAGE_NAME": "com.phonegap.qrcode"
+      "PACKAGE_NAME": "com.phonegap.simbarcode"
     },
     "cordova-plugin-sim": {
-      "PACKAGE_NAME": "com.phonegap.qrcode"
+      "PACKAGE_NAME": "com.phonegap.simbarcode"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "com.phonegap.simbarcode"
     },
     "phonegap-plugin-barcodescanner": {
       "ANDROID_SUPPORT_V4_VERSION": "27.+",
-      "PACKAGE_NAME": "com.phonegap.sim"
-    },
-    "cordova-android-support-gradle-release": {
-      "ANDROID_SUPPORT_VERSION": "27.+",
       "PACKAGE_NAME": "com.phonegap.simbarcode"
     }
   },
   "dependent_plugins": {
     "cordova-plugin-file": {
-      "PACKAGE_NAME": "com.phonegap.qrcode"
+      "PACKAGE_NAME": "com.phonegap.simbarcode"
     }
   }
 }
