@@ -55,5 +55,7 @@
     <platform name="android">
         <allow-intent href="market:*" />
     </platform>
+    <preference name="pgb-builder-version" value="2" />
+    <preference name="phonegap-version" value="cli-7.1.0" />
     
 </widget>
