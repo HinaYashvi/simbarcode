@@ -39,6 +39,10 @@
     },
     "cordova-plugin-sim": {
       "PACKAGE_NAME": "com.phonegap.qrcode"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.phonegap.sim"
     }
   },
   "dependent_plugins": {

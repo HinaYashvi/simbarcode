@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.phonegap.sim;
+package com.phonegap.simbarcode;
 
 import android.os.Bundle;
 import org.apache.cordova.*;

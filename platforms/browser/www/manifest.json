@@ -1,10 +1,10 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "QR-IMEI",
-  "short_name": "QR-IMEI",
-  "version": "com.phonegap.sim",
-  "description": "QR & IMEI DEMO.",
+  "name": "SimBarcode",
+  "short_name": "SimBarcode",
+  "version": "com.phonegap.simbarcode",
+  "description": "IMEI & Barcode",
   "author": "PhoneGap Team",
   "icons": [],
   "start_url": "index.html"
