@@ -1,28 +1,28 @@
 {
-  "_from": "cordova-plugin-sim",
-  "_id": "cordova-plugin-sim@1.3.3",
+  "_from": "cordova-plugin-sim@1.2.1",
+  "_id": "cordova-plugin-sim@1.2.1",
   "_inBundle": false,
-  "_integrity": "sha1-QoZjMHfYhX5kVP4GmHB9CMaK2Ik=",
+  "_integrity": "sha1-dZ7KhrORtiN9FqmwTlttY46sZK8=",
   "_location": "/cordova-plugin-sim",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
+    "type": "version",
     "registry": true,
-    "raw": "cordova-plugin-sim",
+    "raw": "cordova-plugin-sim@1.2.1",
     "name": "cordova-plugin-sim",
     "escapedName": "cordova-plugin-sim",
-    "rawSpec": "",
+    "rawSpec": "1.2.1",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "1.2.1"
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/cordova-plugin-sim/-/cordova-plugin-sim-1.3.3.tgz",
-  "_shasum": "4286633077d8857e6454fe0698707d08c68ad889",
-  "_spec": "cordova-plugin-sim",
-  "_where": "C:\\xampp\\htdocs\\sim-IMEI",
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-sim/-/cordova-plugin-sim-1.2.1.tgz",
+  "_shasum": "759eca86b391b6237d16a9b04e5b6d638eac64af",
+  "_spec": "cordova-plugin-sim@1.2.1",
+  "_where": "C:\\xampp\\htdocs\\simBarcode",
   "author": {
     "name": "Peter Bakondy"
   },
@@ -69,5 +69,5 @@
     "type": "git",
     "url": "git+https://github.com/pbakondy/cordova-plugin-sim.git"
   },
-  "version": "1.3.3"
+  "version": "1.2.1"
 }
