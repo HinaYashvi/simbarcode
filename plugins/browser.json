@@ -39,6 +39,9 @@
     },
     "cordova-plugin-sim": {
       "PACKAGE_NAME": "com.phonegap.simbarcode"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "com.phonegap.simbarcode"
     }
   },
   "dependent_plugins": {

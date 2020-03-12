@@ -382,6 +382,14 @@ module.exports = [
         "merges": [
             "window.plugins.sim"
         ]
+    },
+    {
+        "file": "plugins/cordova-plugin-android-permissions/www/permissions-dummy.js",
+        "id": "cordova-plugin-android-permissions.Permissions",
+        "pluginId": "cordova-plugin-android-permissions",
+        "clobbers": [
+            "cordova.plugins.permissions"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -399,7 +407,8 @@ module.exports.metadata =
     "cordova-plugin-vibration": "2.1.6",
     "phonegap-plugin-barcodescanner": "8.1.0",
     "cordova-android-support-gradle-release": "3.0.1",
-    "cordova-plugin-sim": "1.2.1"
+    "cordova-plugin-sim": "1.3.2",
+    "cordova-plugin-android-permissions": "1.0.2"
 }
 // BOTTOM OF METADATA
 });

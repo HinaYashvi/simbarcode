@@ -36,6 +36,11 @@ var app = {
           alert('imei :'+ imei);
           //alert('error :'+err); 
         });*/
+        hasReadPermission();
+        requestReadPermission();
+        var permissions = cordova.plugins.permissions;
+        console.log(permissions);
+        alert(permissions);
         window.plugins.sim.getSimInfo(successCallback, errorCallback);
     },
 
@@ -53,6 +58,18 @@ var app = {
         console.log('Received Event: ' + id);
     }*/
 };
+// Android only: check permission
+function hasReadPermission() {
+  alert("in hasReadPermission");
+    window.plugins.sim.hasReadPermission(successCallback, errorCallback);
+}
+
+// Android only: request permission
+function requestReadPermission() {
+  alert("in requestReadPermission");
+    window.plugins.sim.requestReadPermission(successCallback, errorCallback);
+
+}
 function scan(){
     alert("in scan");
     cordova.plugins.barcodeScanner.scan(

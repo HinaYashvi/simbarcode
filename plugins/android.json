@@ -38,14 +38,17 @@
     "cordova-plugin-network-information": {
       "PACKAGE_NAME": "com.phonegap.simbarcode"
     },
-    "cordova-plugin-sim": {
-      "PACKAGE_NAME": "com.phonegap.simbarcode"
-    },
     "cordova-plugin-vibration": {
       "PACKAGE_NAME": "com.phonegap.simbarcode"
     },
     "phonegap-plugin-barcodescanner": {
       "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.phonegap.simbarcode"
+    },
+    "cordova-plugin-sim": {
+      "PACKAGE_NAME": "com.phonegap.simbarcode"
+    },
+    "cordova-plugin-android-permissions": {
       "PACKAGE_NAME": "com.phonegap.simbarcode"
     }
   },

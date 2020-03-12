@@ -116,7 +116,15 @@
   "cordova-plugin-sim": {
     "source": {
       "type": "registry",
-      "id": "cordova-plugin-sim@1.2.1"
+      "id": "cordova-plugin-sim@1.3.2"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-android-permissions": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-android-permissions"
     },
     "is_top_level": true,
     "variables": {}
