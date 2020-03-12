@@ -30,7 +30,7 @@
         "ANDROID_SUPPORT_V4_VERSION": "27.+"
       },
       "cordova-android-support-gradle-release": {
-        "ANDROID_SUPPORT_VERSION": "27.+"
+        "ANDROID_SUPPORT_VERSION": "21+."
       }
     },
     "platforms": [
